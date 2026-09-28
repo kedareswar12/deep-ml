@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:14:13.391Z",
+  "generated_at": "2026-09-28T07:14:14.892Z",
   "items": {
     "math:9": {
       "kind": "math",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-09-17T05:42:14.981Z",
-      "last_pushed_at": "2026-09-17T05:42:14.981Z"
+      "last_pushed_at": "2026-09-28T07:14:14.890Z"
     },
     "math:7": {
       "kind": "math",
@@ -21,7 +21,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-09-17T05:47:39.768Z",
-      "last_pushed_at": "2026-09-17T05:47:39.768Z"
+      "last_pushed_at": "2026-09-28T07:14:14.890Z"
     },
     "math:10": {
       "kind": "math",
@@ -32,7 +32,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-09-17T07:14:09.053Z",
-      "last_pushed_at": "2026-09-17T07:14:09.053Z"
+      "last_pushed_at": "2026-09-28T07:14:14.890Z"
     },
     "math:8": {
       "kind": "math",
@@ -43,7 +43,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-17T08:03:59.069Z",
-      "last_pushed_at": "2026-09-17T08:03:59.069Z"
+      "last_pushed_at": "2026-09-28T07:14:14.890Z"
     },
     "problem:121": {
       "kind": "problem",
